@@ -1,39 +1,17 @@
 {
   "name": "Mario Kart 8",
   "titleIds": [
-    "000500001010ED00"
-    "000500001010EC00"
+    "0005000C1010F000"
   ],
   "mods": [
     {
-      "id": "ctgp-universe",
-      "name": "CTGP Universe",
+      "id": "mk8-modpack",
+      "name": "MK8 modpack",
       "type": "modpack",
       "version": "1.0.0",
       "author": "Jepixfred",
-      "description": "CTGP universe",
-      "download": "https://gamebanana.com/dl/457032",
-      "thumbnail": "https://gamebanana.com/wips/embeddables/69022?type=large"
-    },
-    {
-      "id": "mk8-all-star",
-      "name": "MK8 All star",
-      "type": "modpack",
-      "version": "1.0.0",
-      "author": "Jepixfred",
-      "description": "MK8 All star",
-      "download": "https://gamebanana.com/dl/1681710",
-      "thumbnail": "https://gamebanana.com/mods/embeddables/509345?type=large"
-    },
-    {
-      "id": "mk8-ultimate",
-      "name": "MK8 Ultimate",
-      "type": "modpack",
-      "version": "1.0.0",
-      "author": "Jepixfred",
-      "description": "MK8 Ultimate",
-      "download": "https://download1076.mediafire.com/4jlj6etlzxdgPuglvkJLp2f56CZXhelZ9PCbsbzuM56tqv_nrkqxnqhBhEZd9SjhXVgPcQ_rjV8pu4Ysjpb9YUNt3DanE0f1HiepDhBUKxCIoE95uDaCENtkMM1NRZq92bGBUsvvcE_xbcx4E-f7exxZaFTJh2I-DWfTj13JWwHR/4ielvcm5676det7/MK8_Universal_BugFixed.rar",
-      "thumbnail": "https://gamebanana.com/mods/embeddables/508408?type=large"
+      "description": "a MK8 modpack",
+      "download": "https://github.com/Jepixfred/MK8-mods/releases/download/mario-kart/mk8-modpacks.zip"
     }
   ]
 }
