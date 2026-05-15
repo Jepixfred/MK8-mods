@@ -6,7 +6,7 @@
   "games": [
     {
       "id": "mario-kart-8",
-      "path": "games/mario-kart-8/game.json"
+      "path": "MK8-mods/games/mario-kart-8/game.json"
     }
   ]
 }
