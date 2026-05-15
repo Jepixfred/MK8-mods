@@ -5,13 +5,34 @@
   ],
   "mods": [
     {
-      "id": "mk8-modpack",
-      "name": "MK8 modpack",
+      "id": "ctgp-universe",
+      "name": "CTGP Universe",
       "type": "modpack",
       "version": "1.0.0",
       "author": "Jepixfred",
-      "description": "a MK8 modpack",
-      "download": "https://github.com/Jepixfred/MK8-Universal/releases/download/MK8-Universal/MK8_Universal_Lite.zip"
+      "description": "CTGP universe",
+      "download": "https://gamebanana.com/dl/457032",
+      "thumbnail": "https://gamebanana.com/wips/embeddables/69022?type=large"
+    },
+    {
+      "id": "mk8-all-star",
+      "name": "MK8 All star",
+      "type": "modpack",
+      "version": "1.0.0",
+      "author": "Jepixfred",
+      "description": "MK8 All star",
+      "download": "https://gamebanana.com/dl/1681710",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/509345?type=large"
+    },
+    {
+      "id": "mk8-universal",
+      "name": "MK8 Universal",
+      "type": "modpack",
+      "version": "1.0.0",
+      "author": "Jepixfred",
+      "description": "MK8 Universal",
+      "download": "https://github.com/Jepixfred/MK8-Universal/releases/download/MK8-Universal/MK8_Universal_Lite.zip",
+      "thumbnail": "https://gamebanana.com/mods/embeddables/508408?type=large"
     }
   ]
 }
