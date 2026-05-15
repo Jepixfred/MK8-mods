@@ -6,6 +6,7 @@
   "games": [
     {
       "path": "games/mario-kart-8/game.json"
+              "games/super-smash-bros-wii-u/game.json"
     }
   ]
 }
